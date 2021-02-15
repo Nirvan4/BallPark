@@ -63,6 +63,7 @@
      <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\FixedJoystick.cs" />
      <Compile Include="Assets\Scripts\JoyButton.cs" />
      <Compile Include="Assets\Scripts\JoystickController.cs" />
+     <Compile Include="Assets\Scripts\SwipeControl.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program/2020.2.3f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
